@@ -1,0 +1,23 @@
+{
+  "name": "ideal-postcodes-vue",
+  "version": "1.0.0",
+  "description": "Vue component for IdealPostcodes Address Autocomplete",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alexcrawford/ideal-postcodes-vue.git"
+  },
+  "author": "Alex Crawford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexcrawford/ideal-postcodes-vue/issues"
+  },
+  "homepage": "https://github.com/alexcrawford/ideal-postcodes-vue#readme",
+  "dependencies": {
+    "@ideal-postcodes/core-axios": "^1.1.0",
+    "lodash": "^4.17.15"
+  }
+}
