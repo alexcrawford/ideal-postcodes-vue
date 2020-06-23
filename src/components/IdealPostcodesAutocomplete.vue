@@ -5,6 +5,7 @@
                 class="ideal-postcodes-autocomplete-input form-control"
                 :placeholder="placeholder"
                 v-model="query"
+                autocomplete="off"
                 @focus="show"
                 @blur="hide"
         >
